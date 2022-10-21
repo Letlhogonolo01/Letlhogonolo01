@@ -1,6 +1,6 @@
 <h1 align="center">Mr Letlhogonolo</h1>
 
-- 🔭 I’m currently working on **My Profile**
+- 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **Frontend Development and UI Design**
 
