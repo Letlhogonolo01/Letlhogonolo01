@@ -1,4 +1,4 @@
-<h1 align="center">Letlhogonolo</h1>
+<h1 align="center">Hi there, I'm Letlhogonolo</h1>
 
 - 🔭 I’m currently working on **Myself**
 
